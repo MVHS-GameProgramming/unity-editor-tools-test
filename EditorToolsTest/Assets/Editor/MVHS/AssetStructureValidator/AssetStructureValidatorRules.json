@@ -1,0 +1,99 @@
+{
+  "rules": [
+    {
+      "extension": ".wav",
+      "requiredFolder": "Audio",
+      "description": "Sound effects and music go under Project/Audio/"
+    },
+    {
+      "extension": ".mp3",
+      "requiredFolder": "Audio",
+      "description": "Sound effects and music go under Project/Audio/"
+    },
+    {
+      "extension": ".ogg",
+      "requiredFolder": "Audio",
+      "description": "Sound effects and music go under Project/Audio/"
+    },
+    {
+      "extension": ".png",
+      "requiredFolder": "Art",
+      "description": "2D sprites and textures go under Project/Art/"
+    },
+    {
+      "extension": ".jpg",
+      "requiredFolder": "Art",
+      "description": "2D sprites and textures go under Project/Art/"
+    },
+    {
+      "extension": ".fbx",
+      "requiredFolder": "Models",
+      "description": "3D model files go under Project/Models/"
+    },
+    {
+      "extension": ".obj",
+      "requiredFolder": "Models",
+      "description": "3D model files go under Project/Models/"
+    },
+    {
+      "extension": ".blend",
+      "requiredFolder": "Models",
+      "description": "3D model files go under Project/Models/"
+    },
+    {
+      "extension": ".anim",
+      "requiredFolder": "Animations",
+      "description": "Animation clips go under Project/Animations/Clips/"
+    },
+    {
+      "extension": ".controller",
+      "requiredFolder": "Animations",
+      "description": "Animator controllers go under Project/Animations/Controllers/"
+    },
+    {
+      "extension": ".prefab",
+      "requiredFolder": "Prefabs",
+      "description": "Prefabs go under Project/Prefabs/"
+    },
+    {
+      "extension": ".unity",
+      "requiredFolder": "Scenes",
+      "description": "Scene files go under Project/Scenes/"
+    },
+    {
+      "extension": ".cs",
+      "requiredFolder": "Scripts",
+      "description": "C# scripts go under Project/Scripts/"
+    },
+    {
+      "extension": ".asset",
+      "requiredFolder": "ScriptableObjects",
+      "description": "ScriptableObject data assets go under Project/ScriptableObjects/"
+    },
+    {
+      "extension": ".physicsmaterial",
+      "requiredFolder": "PhysicsMaterials",
+      "description": "Physics materials go under Project/PhysicsMaterials/"
+    },
+    {
+      "extension": ".physicsmaterial2d",
+      "requiredFolder": "PhysicsMaterials",
+      "description": "2D physics materials go under Project/PhysicsMaterials/"
+    },
+    {
+      "extension": ".mat",
+      "requiredFolder": "Art",
+      "description": "Materials go under Project/Art/Materials/"
+    },
+    {
+      "extension": ".ttf",
+      "requiredFolder": "Art",
+      "description": "Fonts go under Project/Art/Fonts/"
+    },
+    {
+      "extension": ".otf",
+      "requiredFolder": "Art",
+      "description": "Fonts go under Project/Art/Fonts/"
+    }
+  ]
+}
