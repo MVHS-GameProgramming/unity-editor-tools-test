@@ -1,11 +1,12 @@
 {
     "exportedBy": "aaronpetrek",
-    "exportDate": "2026-10-23T09:13:32",
+    "exportDate": "2026-10-23T16:02:51",
     "folders": [
         {
             "folderPath": "Assets/Project/Art/Sprites/",
             "files": [
-                "Assets/Project/Art/Sprites/PlayerShip.png"
+                "Assets/Project/Art/Sprites/Alien 2.png",
+                "Assets/Project/Art/Sprites/Fighter 4.png"
             ]
         }
     ]
