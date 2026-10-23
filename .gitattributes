@@ -1,0 +1,45 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+
+# Unity YAML files - use Unity's merge tool
+*.meta merge=unityyamlmerge eol=lf
+*.unity merge=unityyamlmerge eol=lf
+*.prefab merge=unityyamlmerge eol=lf
+*.asset merge=unityyamlmerge eol=lf
+*.anim merge=unityyamlmerge eol=lf
+*.controller merge=unityyamlmerge eol=lf
+*.overrideController merge=unityyamlmerge eol=lf
+*.physicsMaterial2D merge=unityyamlmerge eol=lf
+*.physicsMaterial merge=unityyamlmerge eol=lf
+*.playable merge=unityyamlmerge eol=lf
+*.mask merge=unityyamlmerge eol=lf
+*.brush merge=unityyamlmerge eol=lf
+*.flare merge=unityyamlmerge eol=lf
+*.fontsettings merge=unityyamlmerge eol=lf
+*.guiskin merge=unityyamlmerge eol=lf
+*.lighting merge=unityyamlmerge eol=lf
+*.rendertexture merge=unityyamlmerge eol=lf
+*.spriteatlas merge=unityyamlmerge eol=lf
+*.terrainlayer merge=unityyamlmerge eol=lf
+*.mixer merge=unityyamlmerge eol=lf
+
+# Binary files - no diffs, no merging
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.bmp binary
+*.tga binary
+*.tiff binary
+*.psd binary
+*.pdf binary
+*.mp3 binary
+*.wav binary
+*.ogg binary
+*.fbx binary
+*.obj binary
+*.blend binary
+*.ttf binary
+*.otf binary
+*.dll binary
+*.exe binary
